@@ -8,6 +8,7 @@
 <h2>Message : ${message}</h2>
 <h2>Counter : ${counter}</h2>
 
+fixed the problem of file copy permission.
 	
 </body>
 </html>
